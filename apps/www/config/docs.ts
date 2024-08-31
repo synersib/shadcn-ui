@@ -32,6 +32,10 @@ export const docsConfig: DocsConfig = {
       title: "Examples",
       href: "/examples",
     },
+    {
+      title: "Colors",
+      href: "/colors",
+    },
   ],
   sidebarNav: [
     {
@@ -65,6 +69,7 @@ export const docsConfig: DocsConfig = {
         {
           title: "CLI",
           href: "/docs/cli",
+          label: "Updated",
           items: [],
         },
         {
@@ -145,7 +150,6 @@ export const docsConfig: DocsConfig = {
         {
           title: "Chart",
           href: "/docs/components/chart",
-          label: "New",
           items: [],
         },
         {
