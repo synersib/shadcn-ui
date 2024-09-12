@@ -1,5 +1,31 @@
 # @shadcn/ui
 
+## 2.0.6
+
+### Patch Changes
+
+- [#4820](https://github.com/shadcn-ui/ui/pull/4820) [`64b2f1a`](https://github.com/shadcn-ui/ui/commit/64b2f1a5ad865c831045c954fec85e0fec2289e7) Thanks [@shadcn](https://github.com/shadcn)! - add docs support
+
+## 2.0.5
+
+### Patch Changes
+
+- [#4787](https://github.com/shadcn-ui/ui/pull/4787) [`99ff9ca`](https://github.com/shadcn-ui/ui/commit/99ff9caf7180c8c19df130969bdef3d0fb78b218) Thanks [@shadcn](https://github.com/shadcn)! - add src to content for tailwind
+
+## 2.0.4
+
+### Patch Changes
+
+- [#4776](https://github.com/shadcn-ui/ui/pull/4776) [`49373ee`](https://github.com/shadcn-ui/ui/commit/49373eed9672d6ecf82219f6e682cab914e7cc41) Thanks [@shadcn](https://github.com/shadcn)! - better error handling
+
+## 2.0.3
+
+### Patch Changes
+
+- [#4729](https://github.com/shadcn-ui/ui/pull/4729) [`701e116`](https://github.com/shadcn-ui/ui/commit/701e1160ea86b2ddd9f43121b447477caaf7aefa) Thanks [@shadcn](https://github.com/shadcn)! - add --src-dir
+
+- [#4731](https://github.com/shadcn-ui/ui/pull/4731) [`faa7a67`](https://github.com/shadcn-ui/ui/commit/faa7a67fb30c741c2f2559fc64b34f103aac9d79) Thanks [@shadcn](https://github.com/shadcn)! - fix routes for src dir
+
 ## 2.0.0
 
 ### Major Changes
